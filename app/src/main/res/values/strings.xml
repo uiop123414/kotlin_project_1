@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="name_of_star">Name of star</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras blandit, nibh non ullamcorper vulputate, massa ligula posuere elit, id maximus mauris risus quis libero. Proin faucibus dapibus maximus. Pellentesque ex arcu, varius non dictum vitae, tincidunt in leo. Morbi ac velit tempor, euismod enim nec, dictum augue. Fusce aliquet tempus nunc sed maximus. Aenean commodo volutpat ligula et elementum. Curabitur ornare condimentum pellentesque. Curabitur non ante accumsan, scelerisque lectus id, eleifend dui. Etiam scelerisque lectus vitae placerat ultricies. Vestibulum pellentesque euismod massa eget accumsan. Nulla maximus ornare nunc quis accumsan.</string>
+    <string name="previousText">Previous</string>
+    <string name="nextText">Next</string>
+</resources>
